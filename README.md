@@ -1,8 +1,7 @@
 # Alicia Martín
 
-DPhil student in Astrophysics at the University of Oxford, supervised by Pedro Ferreira.
-I work on extracting more information from cosmological data: weak lensing, dark-matter
-halo structure and symbolic regression.
+DPhil student in Astrophysics at the University of Oxford, supervised by Pedro G. Ferreira, Harry Desmond, Deaglan j. Bartlett and Tariq Yasin.
+I work on .
 
 [ORCID](https://orcid.org/0009-0002-4201-7962) · [Google Scholar](https://scholar.google.com/citations?user=5Dd6SiMAAAAJ) · alicia.martin@physics.ox.ac.uk
 
