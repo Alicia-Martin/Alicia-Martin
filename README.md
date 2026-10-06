@@ -1,7 +1,14 @@
 # Alicia Martín
 
-DPhil student in Astrophysics at the University of Oxford, supervised by Pedro G. Ferreira, Harry Desmond, Deaglan j. Bartlett and Tariq Yasin.
-I work on .
+DPhil student in Astrophysics at the University of Oxford, supervised by Pedro G. Ferreira, Harry Desmond, Deaglan J. Bartlett and Tariq Yasin.
+
+I develop **interpretable machine learning methods for scientific discovery**. My main
+focus is **symbolic regression**, which finds closed-form models directly from data. I
+apply these methods to **dark-matter halo structure**, using gravitational lensing and
+galaxy dynamics, and to the **design of informative summary statistics** for large-scale
+structure. More broadly, I'm interested in scalable, statistically principled methods for
+model discovery, optimisation and Bayesian inference, with hard problems in astrophysics
+and cosmology driving advances in machine learning.
 
 [ORCID](https://orcid.org/0009-0002-4201-7962) · [Google Scholar](https://scholar.google.com/citations?user=5Dd6SiMAAAAJ) · alicia.martin@physics.ox.ac.uk
 
