@@ -10,7 +10,7 @@ structure. More broadly, I'm interested in scalable, statistically principled me
 model discovery, optimisation and Bayesian inference, with hard problems in astrophysics
 and cosmology driving advances in machine learning.
 
-[ORCID](https://orcid.org/0009-0002-4201-7962) · [Google Scholar](https://scholar.google.com/citations?user=5Dd6SiMAAAAJ) · alicia.martin@physics.ox.ac.uk
+[Website](https://alicia-martin.github.io) · [ORCID](https://orcid.org/0009-0002-4201-7962) · [Google Scholar](https://scholar.google.com/citations?user=5Dd6SiMAAAAJ) · alicia.martin@physics.ox.ac.uk
 
 ## Research code
 
