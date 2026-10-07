@@ -14,11 +14,11 @@ and cosmology driving advances in machine learning.
 
 ## Research code
 
-- **[ESR_weak](https://github.com/Alicia-Martin/ESR_weak)**: data-driven dark-matter halo
+- **ESR_weak** (code release coming soon): data-driven dark-matter halo
   profiles from cluster weak lensing with Exhaustive Symbolic Regression.
   *Martín et al. 2026, MNRAS* ([arXiv:2601.05203](https://arxiv.org/abs/2601.05203));
   *Martín et al. 2026, Phil. Trans. R. Soc. A* ([arXiv:2511.23073](https://arxiv.org/abs/2511.23073))
-- **[marked_pk](https://github.com/Alicia-Martin/marked_pk)**: optimal mark functions
+- **marked_pk** (code release coming soon): optimal mark functions
   for weak-lensing marked power spectra (differentiable Fisher forecasts, JAX + NaMaster).
   *In preparation*
 - **[MIGHTEE_ESR](https://github.com/Alicia-Martin/MIGHTEE_ESR)**: symbolic regression of
